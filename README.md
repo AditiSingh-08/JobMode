@@ -1,15 +1,82 @@
-This is a full-stack React web app with AI superpowers that’s basically your career BFF.
+# 🚀 JobMode — Your AI Career Companion
 
-Instead of boring job boards and generic advice, this app gives you a personal AI mentor who actually gets you. You can:
+An AI-inspired career guidance platform designed to make career planning smarter, simpler and more personalized.
 
-💬 Chat it up with your AI coach for career tea (resume roasts, interview hacks, and “what’s next” life advice).
+JobMode is a frontend project that explores how AI-powered career assistance can improve the job-seeking experience through an intuitive and interactive user interface.
 
-📝 Fix your resume drip with instant feedback.
+## ✨ Key Features
 
-🎯 Find your vibe with skill gap check-ups + personalized learning paths.
+- 💬 **AI Career Coach UI** — Interface concept for personalized career guidance.
+- 📄 **Resume Feedback** — UI concept for resume reviews and improvement suggestions.
+- 🎯 **Skill Gap Analysis** — Visual concept for identifying skills and learning opportunities.
+- 📊 **Career Dashboard** — A centralized space for tracking career progress.
+- 🔍 **Opportunity Discovery** — Interface for exploring relevant career opportunities.
 
-📊 Glow-up your career with a dashboard that tracks your progress.
+*Note: AI-powered functionality and backend integrations are not yet implemented. The current version focuses on frontend development and UI design.*
 
-🚀 Discover opportunities that actually match your goals (no more endless scrolling on job sites).
+## 🛠️ Tech Stack
 
-It’s like having a mentor, hype squad, and strategy guide all rolled into one app — but smarter, faster, and way less awkward than asking your uncle for job tips.
+- Next.js
+- React.js
+- JavaScript
+- CSS
+- UI Components
+
+## 📁 Project Structure
+
+```text
+jobmode/
+├── app/
+├── components/
+│   └── ui/
+├── lib/
+├── public/
+├── package.json
+└── README.md
+```
+
+## ⚙️ Getting Started
+
+Clone the repository:
+
+```bash
+git clone https://github.com/AditiSingh-08/JobMode.git
+```
+
+Navigate to the project:
+
+```bash
+cd JobMode/jobmode
+```
+
+Install dependencies:
+
+```bash
+npm install
+```
+
+Start the development server:
+
+```bash
+npm run dev
+```
+
+Open `http://localhost:3000` in your browser.
+
+## 🔮 Future Enhancements
+
+- Integrate an LLM-powered career assistant.
+- Implement resume analysis and feedback.
+- Develop skill-gap analysis functionality.
+- Add personalized career recommendations.
+- Build backend APIs and database integration.
+
+## 👩‍💻 Author
+
+**Aditi Singh**
+
+[GitHub](https://github.com/AditiSingh-08) 
+
+---
+
+*Designed to make career exploration smarter, more accessible and more personalized.* ✨
